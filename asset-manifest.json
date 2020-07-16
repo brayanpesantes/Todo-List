@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brayanpesantes/Todo-List/static/css/main.06e2f02f.chunk.css",
+    "main.js": "/brayanpesantes/Todo-List/static/js/main.91a0134f.chunk.js",
+    "main.js.map": "/brayanpesantes/Todo-List/static/js/main.91a0134f.chunk.js.map",
+    "runtime-main.js": "/brayanpesantes/Todo-List/static/js/runtime-main.eccce333.js",
+    "runtime-main.js.map": "/brayanpesantes/Todo-List/static/js/runtime-main.eccce333.js.map",
+    "static/js/2.4a64f5ba.chunk.js": "/brayanpesantes/Todo-List/static/js/2.4a64f5ba.chunk.js",
+    "static/js/2.4a64f5ba.chunk.js.map": "/brayanpesantes/Todo-List/static/js/2.4a64f5ba.chunk.js.map",
+    "index.html": "/brayanpesantes/Todo-List/index.html",
+    "precache-manifest.70e0c26725c466eb98e599e2a95505a7.js": "/brayanpesantes/Todo-List/precache-manifest.70e0c26725c466eb98e599e2a95505a7.js",
+    "service-worker.js": "/brayanpesantes/Todo-List/service-worker.js",
+    "static/css/main.06e2f02f.chunk.css.map": "/brayanpesantes/Todo-List/static/css/main.06e2f02f.chunk.css.map",
+    "static/js/2.4a64f5ba.chunk.js.LICENSE.txt": "/brayanpesantes/Todo-List/static/js/2.4a64f5ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eccce333.js",
+    "static/js/2.4a64f5ba.chunk.js",
+    "static/css/main.06e2f02f.chunk.css",
+    "static/js/main.91a0134f.chunk.js"
+  ]
+}
